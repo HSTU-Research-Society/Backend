@@ -21,7 +21,9 @@ import {
   MapPin,
   HelpCircle,
   LogOut,
-  Home
+  Home,
+  Scale,
+  ShieldCheck
 } from "lucide-react";
 
 const navigation = [
@@ -32,6 +34,8 @@ const navigation = [
       { name: "Leadership", href: "/about/leadership", icon: Users },
       { name: "Constitution", href: "/about/constitution", icon: FileText },
       { name: "History", href: "/about/history", icon: History },
+      { name: "Terms of Service", href: "/about/terms", icon: Scale },
+      { name: "Privacy Policy", href: "/about/privacy", icon: ShieldCheck },
     ],
   },
   {
