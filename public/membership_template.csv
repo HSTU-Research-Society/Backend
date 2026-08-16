@@ -1,0 +1,3 @@
+membershipId,name,batch,designation,photoUrl,facebookUrl,linkedinUrl,email,phone,department,description,issueDate
+MEM-2024-001,Rahim Ahmed,21,General Member,https://picsum.photos/400,https://facebook.com,https://linkedin.com,rahim@example.com,01700000000,Civil Engineering,Active Member,2024-01-15
+MEM-2022-045,Sadia Islam,18,Former Executive,https://picsum.photos/400,https://facebook.com,https://linkedin.com,sadia@example.com,01800000000,Civil Engineering,Graduated Batch 18,2022-03-10

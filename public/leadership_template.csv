@@ -1,0 +1,6 @@
+name,batch,designation,photoUrl,facebookUrl,linkedinUrl,email,type
+John Doe,20,President,https://picsum.photos/400,https://facebook.com/johndoe,https://linkedin.com/in/johndoe,john@example.com,executive
+Jane Smith,21,Vice President,https://picsum.photos/400,https://facebook.com/janesmith,,jane@example.com,executive
+Prof. Alan Turing,A,Chief Advisor,https://picsum.photos/400,,,,advisory
+Alice Johnson,18,Former President,https://picsum.photos/400,,,,alumni
+Bob Williams,22,Event Coordinator,https://picsum.photos/400,,,,taskforce

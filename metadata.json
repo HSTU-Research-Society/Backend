@@ -1,0 +1,6 @@
+{
+  "name": "Club Admin Panel",
+  "description": "Admin panel for the Club website to manage content, events, and leadership.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
