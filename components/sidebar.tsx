@@ -83,8 +83,8 @@ export function Sidebar() {
     <div className="flex h-full w-[280px] flex-col bg-white text-slate-700 overflow-y-auto border-r border-slate-200 relative z-20 font-inter">
       <div className="p-6 shrink-0 pt-8">
         <div className="flex items-center gap-3 mb-2">
-          <div className="w-10 h-10 bg-[#F59E0B] rounded-[14px] flex items-center justify-center font-bold text-xl text-white shadow-[0_10px_30px_rgba(245,158,11,0.25)]">C</div>
-          <h1 className="font-montserrat font-bold text-2xl tracking-tight text-[#0F172A]">Club Admin</h1>
+          <div className="w-10 h-10 bg-[#F59E0B] rounded-[14px] flex items-center justify-center font-bold text-base text-white shadow-[0_10px_30px_rgba(245,158,11,0.25)]">RS</div>
+          <h1 className="font-montserrat font-bold text-xl tracking-tight text-[#0F172A]">HSTU RS Admin</h1>
         </div>
       </div>
 

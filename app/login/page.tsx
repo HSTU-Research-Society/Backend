@@ -31,10 +31,10 @@ export default function LoginPage() {
       <div className="max-w-md w-full space-y-8 p-8 bg-white rounded-xl shadow-lg">
         <div>
           <h2 className="mt-6 text-center text-3xl font-extrabold text-gray-900">
-            Admin Login
+            HSTU RS Admin Login
           </h2>
           <p className="mt-2 text-center text-sm text-gray-600">
-            Sign in to manage the Club website
+            Sign in to manage the HSTU RS portal
           </p>
         </div>
         <form className="mt-8 space-y-6" onSubmit={handleLogin}>
