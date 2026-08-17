@@ -23,7 +23,8 @@ import {
   LogOut,
   Home,
   Scale,
-  ShieldCheck
+  ShieldCheck,
+  Handshake
 } from "lucide-react";
 
 const navigation = [
@@ -36,6 +37,7 @@ const navigation = [
       { name: "History", href: "/about/history", icon: History },
       { name: "Terms of Service", href: "/about/terms", icon: Scale },
       { name: "Privacy Policy", href: "/about/privacy", icon: ShieldCheck },
+      { name: "Partners", href: "/about/partners", icon: Handshake },
     ],
   },
   {
